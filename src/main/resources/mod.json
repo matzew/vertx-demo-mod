@@ -1,0 +1,4 @@
+{
+  "main":"net.wessendorf.aerogear.vertx.DeviceRegistrationModule",
+  "includes":"vertx.mongo-persistor-v1.2"
+}
